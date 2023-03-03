@@ -1,2 +1,2 @@
 # text-deblur
-A library for deblurring text images using GAN's 
+A library for deblurring text images using Convolutional Auto-Encoders
